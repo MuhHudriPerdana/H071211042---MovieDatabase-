@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_tv"
+        android:enabled="true"
+        android:icon="@drawable/ic_watching_tv"
+        android:title="@string/item_tv_show"/>
+    <item
+        android:id="@+id/menu_item_movie"
+        android:enabled="true"
+        android:icon="@drawable/ic_video_camera"
+        android:title="@string/item_movie"/>
+
+    <item
+        android:id="@+id/menu_item_favorite"
+        android:enabled="true"
+        android:icon="@drawable/ic_heart"
+        android:title="@string/item_favorite"/>
+</menu>

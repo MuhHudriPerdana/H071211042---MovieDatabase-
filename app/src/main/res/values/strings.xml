@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">H071211042-Final Mobile</string>
+
+    <string name="item_movie">Movie</string>
+    <string name="item_tv_show">Tv Show</string>
+    <string name="item_favorite">Favorite</string>
+
+
+    <string name="tidak_ada">Tidak ada hasil yang cocok</string>
+    <string name="gagal_memuat">Gagal Memuat Data</string>
+    <string name="belum_ada">Belum Ada Data Favorit</string>
+    <string name="silahkan">Silahkan tambahkan, film favorite anda terlebih dahulu</string>
+    <string name="masalah_sambungan">Masalah koneksi, silahkan muat ulang</string>
+    <string name="bullet">&#8226;</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="cast">Cast :</string>
+    <string name="similar">Similar Movie :</string>
+    <string name="more">more</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="search">Search</string>
+    <string name="notify">Notification</string>
+    <string name="hint">Cari Movie</string>
+</resources>
